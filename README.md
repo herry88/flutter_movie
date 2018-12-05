@@ -1,6 +1,6 @@
 # movie_app
 
-A new Flutter project.
+A simple flutter app that fetches data from OMDB api, concepts used in this app includes fetching data from an api, using stacks to layout widget over another and more...
 
 ## Getting Started
 
